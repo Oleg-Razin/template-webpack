@@ -1,0 +1,35 @@
+{
+    "name": "mchandelier-korat-sprites",
+    "version": "2.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/mchandelier/korat",
+    "description": "Another front-end starter kit",
+    "main": "index.html",
+    "scripts": {
+        "build": "mix",
+        "watch": "mix watch"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.2",
+        "bootstrap": "^5.0.2",
+        "browser-sync": "^2.26.14",
+        "browser-sync-webpack-plugin": "^2.3.0",
+        "merge-stream": "1.0.1",
+        "postcss": "^8.4.5",
+        "resolve-url-loader": "^5.0.0",
+        "sass": "^1.49.0",
+        "sass-loader": "^12.4.0",
+        "webpack": "^5.67.0",
+        "webpack-cli": "^4.9.2"
+    },
+    "dependencies": {
+        "acorn": "^8.7.1",
+        "jquery": "^3.6.0",
+        "laravel-mix": "^6.0.41"
+    },
+    "browserslist": [
+        "last 4 version",
+        "> 1%",
+        "IE 10"
+    ]
+}
