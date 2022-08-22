@@ -1,9 +1,9 @@
 {
-    "name": "mchandelier-korat-sprites",
-    "version": "2.0.0",
+    "name": "template-webpack",
+    "version": "1.0.0",
     "license": "MIT",
-    "repository": "https://github.com/mchandelier/korat",
-    "description": "Another front-end starter kit",
+    "repository": "https://github.com/Oleg-Razin/template-webpack",
+    "description": "starter kit with webpack",
     "main": "index.html",
     "scripts": {
         "build": "mix",
